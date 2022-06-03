@@ -22,7 +22,7 @@ simulated environment in Gazebo with the `RTAB-Map` package.
   <tr>
     <th><p>
            <img src="images/rtab-map.png"
-            alt="database viewer" width="400" height="200"></a>
+            alt="database viewer" width="800" height="350"></a>
            <br>Database Viewer
       </p>
     </th>
